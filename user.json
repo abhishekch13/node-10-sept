@@ -1,0 +1,91 @@
+[
+    {
+        "id": 1,
+        "first_name": "Wilona",
+        "last_name": "Chene",
+        "email": "wchene0@cmu.edu",
+        "gender": "Female",
+        "salary":10000
+    },
+    {
+        "id": 2,
+        "first_name": "Clevey",
+        "last_name": "Cheverton",
+        "email": "ccheverton1@msn.com",
+        "gender": "Male",
+        "salary":12000
+
+    },
+    {
+        "id": 3,
+        "first_name": "Gawen",
+        "last_name": "Mumford",
+        "email": "gmumford2@gravatar.com",
+        "gender": "Male",
+        "salary":14000
+
+    },
+    {
+        "id": 4,
+        "first_name": "Lonny",
+        "last_name": "Haugg",
+        "email": "lhaugg3@pagesperso-orange.fr",
+        "gender": "Male",
+        "salary":11000
+
+    },
+    {
+        "id": 5,
+        "first_name": "Tomasine",
+        "last_name": "Farny",
+        "email": "tfarny4@acquirethisname.com",
+        "gender": "Female",
+        "salary":17000
+
+    },
+    {
+        "id": 6,
+        "first_name": "Constantina",
+        "last_name": "Damiata",
+        "email": "cdamiata5@printfriendly.com",
+        "gender": "Female",
+        "salary":19000
+
+    },
+    {
+        "id": 7,
+        "first_name": "Edith",
+        "last_name": "Pahlsson",
+        "email": "epahlsson6@berkeley.edu",
+        "gender": "Female",
+        "salary":16000
+
+    },
+    {
+        "id": 8,
+        "first_name": "Bunni",
+        "last_name": "Havenhand",
+        "email": "bhavenhand7@archive.org",
+        "gender": "Female",
+        "salary":14000
+
+    },
+    {
+        "id": 9,
+        "first_name": "Allx",
+        "last_name": "Colbourn",
+        "email": "acolbourn8@slate.com",
+        "gender": "Female",
+        "salary":18000
+
+    },
+    {
+        "id": 10,
+        "first_name": "Pat",
+        "last_name": "Schulken",
+        "email": "pschulken9@woothemes.com",
+        "gender": "Genderqueer",
+        "salary":15000
+
+    }
+]
